@@ -1,0 +1,3 @@
+[submodule "micro/plug/lsp"]
+	path = micro/plug/lsp
+	url = https://github.com/AndCake/micro-plugin-lsp
