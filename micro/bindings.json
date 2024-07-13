@@ -1,0 +1,20 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Alt-[": "PreviousTab",
+    "Alt-]": "NextTab",
+    "Alt-d": "command:definition",
+    "Alt-f": "command:format",
+    "Alt-k": "command:hover",
+    "Alt-r": "command:references",
+    "Alt-z": "Redo",
+    "Ctrl-Down": "ScrollDown",
+    "Ctrl-Shift-Down": "ScrollDown",
+    "Ctrl-Shift-Up": "ScrollUp",
+    "Ctrl-Up": "ScrollUp",
+    "Ctrl-j": "command:tree",
+    "Ctrl-r": "NextSplit",
+    "Ctrl-w": "PreviousSplit",
+    "CtrlSpace": "command:lspcompletion",
+    "CtrlUnderscore": "lua:comment.comment",
+    "F4": "command:jumptag"
+}

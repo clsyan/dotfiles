@@ -1,0 +1,11 @@
+{
+    "colorscheme": "twilight",
+    "filemanager.openonstart": true,
+    "lsp.formatOnSave": true,
+    "lsp.ignoreTriggerCharacters": "completion,signature",
+    "lsp.server": "typescript=typescript-language-server --stdio,html=vscode-html-language-server --stdio",
+    "micro-quoter": true,
+    "scrollbar": true,
+    "scrollbarChar": "[]",
+    "scrollspeed": 6
+}
